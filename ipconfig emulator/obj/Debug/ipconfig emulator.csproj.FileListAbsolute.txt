@@ -1,0 +1,6 @@
+c:\users\bakuano\documents\visual studio 2015\Projects\ipconfig emulator\ipconfig emulator\bin\Debug\ipconfig emulator.exe.config
+c:\users\bakuano\documents\visual studio 2015\Projects\ipconfig emulator\ipconfig emulator\bin\Debug\ipconfig emulator.exe
+c:\users\bakuano\documents\visual studio 2015\Projects\ipconfig emulator\ipconfig emulator\bin\Debug\ipconfig emulator.pdb
+c:\users\bakuano\documents\visual studio 2015\Projects\ipconfig emulator\ipconfig emulator\obj\Debug\ipconfig emulator.exe
+c:\users\bakuano\documents\visual studio 2015\Projects\ipconfig emulator\ipconfig emulator\obj\Debug\ipconfig emulator.pdb
+C:\Users\Bakuano\Documents\Visual Studio 2015\Projects\ipconfig emulator\ipconfig emulator\obj\Debug\ipconfig emulator.csprojResolveAssemblyReference.cache
